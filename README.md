@@ -1,6 +1,6 @@
 # My Aesthetic Quotes — Pro
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Ima.jpg)
 
 A beautiful and interactive web app to display aesthetic quotes in a cinematic style. Users can upload custom backgrounds, share images directly on social media, and control the display speed and font size.
 
